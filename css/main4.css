@@ -1,0 +1,121 @@
+.wrap2{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.main{
+    display: block;
+    width: 100%;
+    float: left;
+
+}
+.main-1{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    border-radius: 20px;
+/*    padding: 5rem 0;
+    margin-top: 30px;*/
+    box-shadow: 10px 10px rgba(0,0,0,0.4);
+}
+.main-2{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px inset rgba(0,0,0,0.4);
+}
+.main-3{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 0 10px  rgba(0,0,0,0.4);
+}
+.main-4{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 0 10px inset rgba(0,0,0,0.4);
+}
+.main2{
+    display: inline-block;
+    width: 100%;
+    float: right;
+    margin: -800px -300px ;
+}
+.main-5{
+
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    text-align: center;
+    box-shadow: 10px 10px rgba(0,0,0,0.4);
+}
+.main-6{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    text-align: center;
+    box-shadow: 10px 10px inset rgba(0,0,0,0.4);
+}
+.main-7{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    text-align: center;
+    box-shadow: 10px 10px 0 10px  rgba(0,0,0,0.4);
+}
+.main-8{
+    margin-top: -20px;
+    margin-left: 5px;
+    border: 5px solid blue;
+    background-color: orange;
+    width: 144px;
+    height: 144px;
+    text-align: center;
+    box-shadow: 10px 10px 0 10px inset rgba(0,0,0,0.4);
+}
+.a{
+    width:180px;
+    height: 180px;
+}
+.b{
+    background-color: lightgray;
+    text-align: center;
+}
+.c{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+td{
+    line-height: 5px;
+}
+.e{
+    margin-left: 500px;
+}

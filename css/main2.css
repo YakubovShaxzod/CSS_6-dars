@@ -1,0 +1,102 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.main{
+    display: block;
+    width: 100%;
+
+}
+.main-1{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+}
+.main-2{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 10px 10px 0 rgba(80,80,80,0.3);
+}
+.main-3{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 20px 20px 0 rgba(80,80,80,0.5);
+}
+.main-4{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 20px 20px 20px rgba(80,80,80,0.5);
+}
+.main2{
+    display: inline-block;
+    width: 100%;
+    margin-top: 40px;
+}
+.main-5{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 30px 30px 30px rgba(80,80,80,0.3);
+}
+.main-6{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 30px 30px 0 rgba(80,80,80,0.4);
+}
+.main-7{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: 0 30px 0 rgba(80,80,80,0.5);
+}
+.main-8{
+    border: 1px solid gray;
+    background-color: lightblue;
+    width: 15%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 4rem 0;
+    margin: 0 20px;
+    float: left;
+    box-shadow: -10px -10px 5px rgba(80,80,80,0.4);
+}

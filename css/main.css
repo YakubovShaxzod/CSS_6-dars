@@ -1,0 +1,34 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+h1{
+   text-shadow: 2px -10px 10px red, -2px 10px 10px blue;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    margin: 0 20px;                     /* bizda faqat width bolrligi uchun 0 20 yozdik*/
+}
+.sana{
+    padding: 5rem 0;        /* 1rem = 16px*/
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+}

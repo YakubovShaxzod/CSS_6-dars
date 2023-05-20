@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+}
+.wrap{
+    width: 1200px;
+    margin: 10% 25%;
+}
+.main{
+    display: block;
+    width: 100%;
+}
+.main-1{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 0 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 0 0 50px  rgba(0,0,255,1);
+}
+.main-2{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 0 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 30px 0 80px rgba(0,0,255,1);
+}
+.main-3{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 0 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 30px 30px 40px rgba(0,0,255,0.8);
+}
+.main2{
+    display: inline-block;
+    width: 100%;
+    margin-top: 80px;
+}
+.main-4{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 30px 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 0 0 50px  inset rgba(0,0,255,1);
+}
+.main-5{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 30px 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 30px 0 80px inset rgba(0,0,255,1);
+}
+.main-6{
+    border: 1px solid gray;
+    background-color: red;
+    width: 15%;
+    text-align: center;
+    margin: 30px 50px;
+    padding: 5rem 0;
+    float: left;
+    box-shadow: 30px 30px 50px 10px inset rgba(0,0,255,1);
+}
